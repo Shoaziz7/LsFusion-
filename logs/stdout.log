@@ -795,3 +795,5 @@
 03 Jul 2024 14:46:39,373  INFO StartLogger - Installer for Windows (without auto update): https://download.lsfusion.org/exe/lsfusion-desktop-5.1-x64.exe
 03 Jul 2024 14:46:39,373  INFO StartLogger - Current version: 5.1 (227)
 03 Jul 2024 14:46:39,373  INFO StartLogger - Server has successfully started in 32608 ms.
+03 Jul 2024 15:16:35,653  INFO SystemLogger - Change current time snapshots to 2024-07-03T15:16:35.653207500, 2024-07-03T10:16:35.653207500Z
+03 Jul 2024 15:16:35,653  INFO SystemLogger - Change current time snapshots to 2024-07-03T15:16:35.653207500, 2024-07-03T10:16:35.653207500Z
