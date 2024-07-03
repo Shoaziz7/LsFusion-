@@ -7,5 +7,13 @@ address 'Адрес' = DATA STRING[150] (Stock) IN base;
 
 FORM stocks 'Склады'
     OBJECTS s = Stock
+    PROPERTIES(s) READONLY name, address, NEW, EDIT, DELETE
+    LIST Stock OBJECT s
+;
+
+
+FORM stock 'Склад'
+    OBJECTS s = Stock PANEL 
     PROPERTIES(s) name, address, NEW, DELETE
+    EDIT Stock OBJECT s
 ;
