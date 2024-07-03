@@ -1,0 +1,49 @@
+03 Jul 2024 14:47:49,896  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 0]
+03 Jul 2024 14:47:49,947  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@49d2cbf2
+03 Jul 2024 14:47:50,253  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called pauseForUserInteraction: [lsfusion.interop.action.ClientWebAction@4c7eca98]
+03 Jul 2024 14:47:50,350  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] resumed after userInteraction: [null, null]
+03 Jul 2024 14:47:50,353  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@f43942a
+03 Jul 2024 14:47:50,690  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@46c28f38
+03 Jul 2024 14:47:50,691  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@5094a639
+03 Jul 2024 14:47:50,692  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@19a354ad
+03 Jul 2024 14:47:50,693  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@21165a39
+03 Jul 2024 14:47:50,695  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@33267a57
+03 Jul 2024 14:47:50,696  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@5f080fe9
+03 Jul 2024 14:47:50,697  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@5945982c
+03 Jul 2024 14:47:50,698  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@2c4d0030
+03 Jul 2024 14:47:50,700  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@7b139cf0
+03 Jul 2024 14:47:50,701  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@6db25f77
+03 Jul 2024 14:47:50,701  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@49c38e0a
+03 Jul 2024 14:47:50,706  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@393c412d
+03 Jul 2024 14:47:50,708  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@1b477118
+03 Jul 2024 14:47:50,710  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@32799c10
+03 Jul 2024 14:47:50,711  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@5de7eb3b
+03 Jul 2024 14:47:50,712  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@5e915bc8
+03 Jul 2024 14:47:50,713  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@1abe74a1
+03 Jul 2024 14:47:50,714  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@2fc2ffc1
+03 Jul 2024 14:47:50,715  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@3ee33dd8
+03 Jul 2024 14:47:50,716  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@7a4ff3f7
+03 Jul 2024 14:47:50,717  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@de26f88
+03 Jul 2024 14:47:50,718  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@78a328a
+03 Jul 2024 14:47:50,719  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@28a7e258
+03 Jul 2024 14:47:50,720  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@7487b9fb
+03 Jul 2024 14:47:50,721  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called pauseForUserInteraction: [lsfusion.interop.action.ClientWebAction@3f59793b]
+03 Jul 2024 14:47:51,548  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] resumed after userInteraction: [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+03 Jul 2024 14:47:51,655  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 0] called delayUserInteraction: lsfusion.interop.action.ClientWebAction@413ead69
+03 Jul 2024 14:47:51,713  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 0] finished
+03 Jul 2024 14:47:54,463  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 1]
+03 Jul 2024 14:47:55,669  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 1] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+03 Jul 2024 14:47:55,669  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 1] finished
+03 Jul 2024 14:47:56,922  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainForm, m: gainedFocus, rq: 0] for request #0
+03 Jul 2024 14:47:56,923  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainForm, m: gainedFocus, rq: 0] for request #0
+03 Jul 2024 14:47:56,923  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainForm, m: gainedFocus, rq: 0]
+03 Jul 2024 14:47:56,930  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainForm, m: gainedFocus, rq: 0] finished
+03 Jul 2024 14:47:56,930  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainForm, m: gainedFocus, rq: 0] for request #0
+03 Jul 2024 14:47:58,478  INFO PausableInvocationsLogger - Run invocation: [f: navigator, m: executeNavigatorAction, rq: 2]
+03 Jul 2024 14:47:58,545  INFO PausableInvocationsLogger - Interaction [f: navigator, m: executeNavigatorAction, rq: 2] called delayUserInteraction: FormClientAction[modalitType: DOCKED]
+03 Jul 2024 14:47:58,545  INFO PausableInvocationsLogger - Invocation [f: navigator, m: executeNavigatorAction, rq: 2] finished
+03 Jul 2024 14:47:58,741  INFO PausableInvocationsLogger - Acquiring request lock for [f: HockeyStats.MainForm, m: gainedFocus, rq: 0] for request #0
+03 Jul 2024 14:47:58,741  INFO PausableInvocationsLogger - Acquired request lock for [f: HockeyStats.MainForm, m: gainedFocus, rq: 0] for request #0
+03 Jul 2024 14:47:58,742  INFO PausableInvocationsLogger - Run invocation: [f: HockeyStats.MainForm, m: gainedFocus, rq: 0]
+03 Jul 2024 14:47:58,744  INFO PausableInvocationsLogger - Invocation [f: HockeyStats.MainForm, m: gainedFocus, rq: 0] finished
+03 Jul 2024 14:47:58,744  INFO PausableInvocationsLogger - Releasing request lock for [f: HockeyStats.MainForm, m: gainedFocus, rq: 0] for request #0
