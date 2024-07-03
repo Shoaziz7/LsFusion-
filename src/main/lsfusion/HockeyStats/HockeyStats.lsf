@@ -54,9 +54,9 @@ gamesPlayed 'И' (Team team) = hostGamesPlayed(team) (+) guestGamesPlayed(team);
 
 gamesWonBy(Team team, GameResult type) = OVERRIDE [GROUP SUM 1 BY winner(Game game), result(game)](team, type), 0;
 
-gamesWon 'В' (Team team) = gamesWonBy(team, GameResult.win);
-gamesWonOT 'ВО' (Team team) = gamesWonBy(team, GameResult.winOT);
-gamesWonSO 'ВБ' (Team team) = gamesWonBy(team, GameResult.winSO);
+gamesWon 'П' (Team team) = gamesWonBy(team, GameResult.win);
+gamesWonOT 'ПО' (Team team) = gamesWonBy(team, GameResult.winOT);
+gamesWonSO 'ПБ' (Team team) = gamesWonBy(team, GameResult.winSO);
 
 gamesLostBy(Team team, GameResult type) = OVERRIDE [GROUP SUM 1 BY looser(Game game), result(game)](team, type), 0;
 
@@ -64,7 +64,7 @@ gamesLost 'П' (Team team) = gamesLostBy(team, GameResult.win);
 gamesLostOT 'ПО' (Team team) = gamesLostBy(team, GameResult.winOT);
 gamesLostSO 'ПБ' (Team team) = gamesLostBy(team, GameResult.winSO);
 
-points 'Очки' (Team team) = gamesWon(team) * 3 + (gamesWonSO(team) + gamesWonOT(team)) * 2 + gamesLostOT(team) + gamesLostSO(team);
+points 'Баллы' (Team team) = gamesWon(team) * 3 + (gamesWonSO(team) + gamesWonOT(team)) * 2 + gamesLostOT(team) + gamesLostSO(team);
 
 hostGoalsScored = GROUP SUM hostGoals(Game game) BY hostTeam(game);
 guestGoalsScored = GROUP SUM guestGoals(Game game) BY guestTeam(game);
