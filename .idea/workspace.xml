@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f5dc0a2-0d4e-42e5-9fd4-901eff4d3bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/lsfusion/Item.lsf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/lsfusion/LegalEntity.lsf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/lsfusion/Receipt.lsf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/lsfusion/Shipment.lsf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/lsfusion/Stock.lsf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/lsfusion/StockAccounting.lsf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/lsfusion/StockItem.lsf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/lsfusion/HockeyStats.lsf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/lsfusion/Main.lsf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/lsfusion/Main.lsf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_3_2024_3_27_PM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_3_2024_3_27_PM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/scheduler-log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler-log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sqlconnection.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sqlconnection.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,11 +80,19 @@
       <option name="project" value="LOCAL" />
       <updated>1719997434360</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="main">
+      <created>1720002513653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720002513653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HockeyStats" />
-    <option name="LAST_COMMIT_MESSAGE" value="HockeyStats" />
+    <MESSAGE value="main" />
+    <option name="LAST_COMMIT_MESSAGE" value="main" />
   </component>
 </project>
