@@ -5,16 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f5dc0a2-0d4e-42e5-9fd4-901eff4d3bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/lsfusion/Tutor/Tutor.lsf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/git.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/settings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/conf/settings.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/adjust.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/adjust.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/exinfo.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/exinfo.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/invocation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/invocation.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/lru.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/lru.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/scheduler-log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler-log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/server-remote.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/server-remote.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sql.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sql.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sqlconflict.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sqlconflict.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/sqlconnection.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sqlconnection.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sqlhand.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sqlhand.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/start.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/start.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/stderr.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/stderr.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/stdout.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/stdout.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/lsfusion/HockeyStats/HockeyStats.lsf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/lsfusion/HockeyStats/HockeyStats.lsf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git/HockeyStats/HockeyStats.lsf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/git/StockAccounting/Stock.lsf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,13 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720007145954</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="maven file">
+      <created>1720083224756</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720083224756</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HockeyStats" />
     <MESSAGE value="main" />
     <MESSAGE value="small changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="small changes" />
+    <MESSAGE value="maven file" />
+    <option name="LAST_COMMIT_MESSAGE" value="maven file" />
   </component>
 </project>

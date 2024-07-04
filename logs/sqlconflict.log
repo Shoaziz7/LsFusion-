@@ -1,0 +1,1 @@
+04 Jul 2024 13:59:46,220 system - system - system  INFO SQLConflictLogger - TRANSACTION  lsfusion.server.data.sql.exception.SQLConflictException: UPDATE_CONFLICT UPDATE _auto SET Time_currentDate=CAST('2024-07-04 +05' AS date) FROM dumb WHERE 1=1

@@ -993,3 +993,271 @@ Caused by: org.postgresql.util.PSQLException: FATAL: password authentication fai
 03 Jul 2024 14:46:39,373  INFO StartLogger - Installer for Windows (without auto update): https://download.lsfusion.org/exe/lsfusion-desktop-5.1-x64.exe
 03 Jul 2024 14:46:39,373  INFO StartLogger - Current version: 5.1 (227)
 03 Jul 2024 14:46:39,373  INFO StartLogger - Server has successfully started in 32608 ms.
+04 Jul 2024 13:56:37,739  INFO StartLogger - Server is starting...
+04 Jul 2024 13:56:39,504  INFO StartLogger - Logics instance is starting...
+04 Jul 2024 13:56:39,560  INFO StartLogger - Initializing BusinessLogics
+04 Jul 2024 13:56:39,583  INFO StartLogger - Initializing string literals data
+04 Jul 2024 13:56:39,583  INFO StartLogger - Creating modules
+04 Jul 2024 13:56:39,583  INFO StartLogger - Initializing localizer
+04 Jul 2024 13:56:40,419  INFO StartLogger - Initializing dependencies
+04 Jul 2024 13:56:40,603  INFO StartLogger - Initializing modules order
+04 Jul 2024 13:56:40,607  INFO StartLogger - Initializing metacodes and classes
+04 Jul 2024 13:56:41,409  INFO StartLogger - Initializing object class
+04 Jul 2024 13:56:41,414  INFO StartLogger - Initializing tables
+04 Jul 2024 13:56:41,557  INFO StartLogger - Initializing class tables
+04 Jul 2024 13:56:41,707  INFO StartLogger - Initializing full tables with one key
+04 Jul 2024 13:56:41,709  INFO StartLogger - Initializing main logic
+04 Jul 2024 13:56:41,727  INFO StartLogger - Initializing main logic for module : #1 of 54 System (actual: 1)
+04 Jul 2024 13:56:42,901  INFO StartLogger - Initializing main logic for module : #2 of 54 OpenCV (actual: 52)
+04 Jul 2024 13:56:42,902  INFO StartLogger - Initializing main logic for module : #4 of 54 Main (actual: 54)
+04 Jul 2024 13:56:42,902  INFO StartLogger - Initializing main logic for module : #5 of 54 MasterData (actual: 7)
+04 Jul 2024 13:56:42,901  INFO StartLogger - Initializing main logic for module : #3 of 54 Time (actual: 2)
+04 Jul 2024 13:56:42,903  INFO StartLogger - Initializing main logic for module : #6 of 54 Item (actual: 10)
+04 Jul 2024 13:56:42,904  INFO StartLogger - Initializing main logic for module : #7 of 54 Stock (actual: 9)
+04 Jul 2024 13:56:42,906  INFO StartLogger - Initializing main logic for module : #8 of 54 Sound (actual: 30)
+04 Jul 2024 13:56:42,906  INFO StartLogger - Initializing main logic for module : #9 of 54 Com (actual: 47)
+04 Jul 2024 13:56:42,907  INFO StartLogger - Initializing main logic for module : #10 of 54 Integration (actual: 44)
+04 Jul 2024 13:56:42,908  INFO StartLogger - Initializing main logic for module : #11 of 54 HockeyStats (actual: 41)
+04 Jul 2024 13:56:42,908  INFO StartLogger - Initializing main logic for module : #12 of 54 ProcessUtils (actual: 31)
+04 Jul 2024 13:56:42,910  INFO StartLogger - Initializing main logic for module : #13 of 54 DefaultData (actual: 18)
+04 Jul 2024 13:56:42,911  INFO StartLogger - Initializing main logic for module : #14 of 54 LegalEntity (actual: 11)
+04 Jul 2024 13:56:42,911  INFO StartLogger - Initializing main logic for module : #16 of 54 Printer (actual: 16)
+04 Jul 2024 13:56:42,911  INFO StartLogger - Initializing main logic for module : #15 of 54 Image (actual: 17)
+04 Jul 2024 13:56:42,920  INFO StartLogger - Initializing main logic for module : #17 of 54 Numerator (actual: 19)
+04 Jul 2024 13:56:42,978  INFO StartLogger - Initializing main logic for module : #18 of 54 Shipment (actual: 13)
+04 Jul 2024 13:56:42,978  INFO StartLogger - Initializing main logic for module : #19 of 54 Receipt (actual: 12)
+04 Jul 2024 13:56:43,029  INFO StartLogger - Initializing main logic for module : #20 of 54 StockItem (actual: 14)
+04 Jul 2024 13:56:43,047  INFO StartLogger - Initializing main logic for module : #21 of 54 StockAccounting (actual: 15)
+04 Jul 2024 13:56:43,080  INFO StartLogger - Initializing main logic for module : #22 of 54 Utils (actual: 3)
+04 Jul 2024 13:56:43,265  INFO StartLogger - Initializing main logic for module : #23 of 54 Hierarchy (actual: 22)
+04 Jul 2024 13:56:43,265  INFO StartLogger - Initializing main logic for module : #24 of 54 Excel (actual: 23)
+04 Jul 2024 13:56:43,266  INFO StartLogger - Initializing main logic for module : #25 of 54 Schedule (actual: 53)
+04 Jul 2024 13:56:43,266  INFO StartLogger - Initializing main logic for module : #26 of 54 Authentication (actual: 4)
+04 Jul 2024 13:56:43,266  INFO StartLogger - Initializing main logic for module : #27 of 54 I18n (actual: 29)
+04 Jul 2024 13:56:43,712  INFO StartLogger - Initializing main logic for module : #28 of 54 Reflection (actual: 5)
+04 Jul 2024 13:56:43,712  INFO StartLogger - Initializing main logic for module : #29 of 54 Document (actual: 20)
+04 Jul 2024 13:56:43,712  INFO StartLogger - Initializing main logic for module : #30 of 54 Historizable (actual: 21)
+04 Jul 2024 13:56:43,719  INFO StartLogger - Initializing main logic for module : #31 of 54 ProcessMonitor (actual: 42)
+04 Jul 2024 13:56:44,001  INFO StartLogger - Initializing main logic for module : #32 of 54 SystemEvents (actual: 6)
+04 Jul 2024 13:56:44,001  INFO StartLogger - Initializing main logic for module : #34 of 54 Icon (actual: 37)
+04 Jul 2024 13:56:44,001  INFO StartLogger - Initializing main logic for module : #33 of 54 Messenger (actual: 33)
+04 Jul 2024 13:56:44,017  INFO StartLogger - WARNING! Now default change event action will work in new session /utils/messengers/Messenger.lsf(77:30) property:Messenger.synchronizeChatsAction[Messenger.Account] 'Synchronize account' [Messenger(65:70)]
+04 Jul 2024 13:56:44,051  INFO StartLogger - Initializing main logic for module : #35 of 54 Slack (actual: 36)
+04 Jul 2024 13:56:44,051  INFO StartLogger - Initializing main logic for module : #36 of 54 Skype (actual: 51)
+04 Jul 2024 13:56:44,051  INFO StartLogger - Initializing main logic for module : #37 of 54 Telegram (actual: 49)
+04 Jul 2024 13:56:44,051  INFO StartLogger - Initializing main logic for module : #38 of 54 Viber (actual: 34)
+04 Jul 2024 13:56:44,207  INFO StartLogger - Initializing main logic for module : #39 of 54 RabbitMQ (actual: 50)
+04 Jul 2024 13:56:44,207  INFO StartLogger - Initializing main logic for module : #40 of 54 Email (actual: 24)
+04 Jul 2024 13:56:44,208  INFO StartLogger - Initializing main logic for module : #41 of 54 Word (actual: 8)
+04 Jul 2024 13:56:44,208  INFO StartLogger - Initializing main logic for module : #42 of 54 JKanban (actual: 35)
+04 Jul 2024 13:56:44,208  INFO StartLogger - Initializing main logic for module : #43 of 54 Geo (actual: 32)
+04 Jul 2024 13:56:44,208  INFO StartLogger - Initializing main logic for module : #44 of 54 FrappeGantt (actual: 38)
+04 Jul 2024 13:56:44,208  INFO StartLogger - Initializing main logic for module : #45 of 54 MultiSelect (actual: 48)
+04 Jul 2024 13:56:44,209  INFO StartLogger - Initializing main logic for module : #46 of 54 Chart (actual: 46)
+04 Jul 2024 13:56:44,297  INFO StartLogger - Initializing main logic for module : #47 of 54 Security (actual: 25)
+04 Jul 2024 13:56:44,561  INFO StartLogger - Initializing main logic for module : #48 of 54 Service (actual: 26)
+04 Jul 2024 13:56:44,782  INFO StartLogger - Initializing main logic for module : #49 of 54 Scheduler (actual: 39)
+04 Jul 2024 13:56:44,783  INFO StartLogger - Initializing main logic for module : #51 of 54 Chat (actual: 45)
+04 Jul 2024 13:56:44,782  INFO StartLogger - Initializing main logic for module : #50 of 54 Profiler (actual: 27)
+04 Jul 2024 13:56:44,783  INFO StartLogger - Initializing main logic for module : #53 of 54 Eval (actual: 28)
+04 Jul 2024 13:56:44,783  INFO StartLogger - Initializing main logic for module : #52 of 54 SQLUtils (actual: 43)
+04 Jul 2024 13:56:44,897  INFO StartLogger - Initializing main logic for module : #54 of 54 Backup (actual: 40)
+04 Jul 2024 13:56:44,983  INFO StartLogger - Finalizing classes
+04 Jul 2024 13:56:44,983  INFO StartLogger - Checking for duplicate elements
+04 Jul 2024 13:56:44,983  INFO StartLogger - Finalizing groups
+04 Jul 2024 13:56:45,019  INFO StartLogger - Filling implicit cases
+04 Jul 2024 13:56:45,019  INFO StartLogger - Initializing lazy properties
+04 Jul 2024 13:56:45,020  INFO StartLogger - Initializing abstract properties
+04 Jul 2024 13:56:45,020  INFO StartLogger - Finalizing abstract actions
+04 Jul 2024 13:56:45,078  INFO StartLogger - Initializing class aggr props
+04 Jul 2024 13:56:45,078  INFO StartLogger - Checking abstract
+04 Jul 2024 13:56:45,078  INFO StartLogger - Initializing fields for data and materialized properties
+04 Jul 2024 13:56:45,143  INFO StartLogger - Finalizing tables
+04 Jul 2024 13:56:45,156  INFO StartLogger - Looking for recursions in abstract actions / properties
+04 Jul 2024 13:56:45,167  INFO StartLogger - Setup reset files
+04 Jul 2024 13:56:45,167  INFO StartLogger - Finalizing navigator elements
+04 Jul 2024 13:56:45,167  INFO StartLogger - Setup property policy
+04 Jul 2024 13:56:45,167  INFO StartLogger - Initializing indices
+04 Jul 2024 13:56:45,167  INFO StartLogger - Setup drill-down
+04 Jul 2024 13:56:45,199  INFO StartLogger - Initializing reflection events
+04 Jul 2024 13:56:45,233  INFO StartLogger - Setup action policy
+04 Jul 2024 13:56:45,836 ERROR StartLogger - FATAL: password authentication failed for user "postgres" (host: localhost:5432, user: postgres)
+04 Jul 2024 13:56:45,887 ERROR StartLogger - Exception while starting logics instance: 
+java.lang.RuntimeException: org.postgresql.util.PSQLException: FATAL: password authentication failed for user "postgres"
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.initReflectionEvents(DBManager.java:234)
+	at lsfusion.server.physics.admin.reflection.controller.init.InitReflectionEventsTask.run(InitReflectionEventsTask.java:13)
+	at lsfusion.server.base.task.Task.proceed(Task.java:154)
+	at lsfusion.server.base.task.Task$1.aspectRun(Task.java:112)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$AspectRunnable.run(ExecutorFactory.java:475)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$ClosableDaemonThreadFactory$ClosableThread.run(ExecutorFactory.java:554)
+Caused by: org.postgresql.util.PSQLException: FATAL: password authentication failed for user "postgres"
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:520)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:141)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:192)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+	at org.postgresql.Driver.makeConnection(Driver.java:458)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:253)
+	at lsfusion.server.data.sql.adapter.PostgreDataAdapter.getConnection(PostgreDataAdapter.java:75)
+	at lsfusion.server.data.sql.adapter.PostgreDataAdapter.ensureDB(PostgreDataAdapter.java:92)
+	at lsfusion.server.data.sql.adapter.DataAdapter.ensure(DataAdapter.java:68)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.lambda$4(DBManager.java:215)
+	at lsfusion.server.physics.exec.db.table.ImplementTable.reflectionStatProps(ImplementTable.java:509)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.initReflectionEvents(DBManager.java:212)
+	... 8 more
+04 Jul 2024 13:56:45,889  INFO StartLogger - Error starting server, server will be stopped.
+04 Jul 2024 13:56:45,889  INFO StartLogger - Server is stopping...
+04 Jul 2024 13:56:45,889  INFO StartLogger - Logics instance is stopping...
+04 Jul 2024 13:56:45,889  INFO StartLogger - Logics instance has stopped...
+04 Jul 2024 13:56:45,891  INFO StartLogger - Server has stopped...
+04 Jul 2024 13:59:32,453  INFO StartLogger - Server is starting...
+04 Jul 2024 13:59:34,089  INFO StartLogger - Logics instance is starting...
+04 Jul 2024 13:59:34,156  INFO StartLogger - Initializing BusinessLogics
+04 Jul 2024 13:59:34,179  INFO StartLogger - Initializing string literals data
+04 Jul 2024 13:59:34,191  INFO StartLogger - Initializing localizer
+04 Jul 2024 13:59:34,179  INFO StartLogger - Creating modules
+04 Jul 2024 13:59:34,912  INFO StartLogger - Initializing dependencies
+04 Jul 2024 13:59:35,114  INFO StartLogger - Initializing modules order
+04 Jul 2024 13:59:35,121  INFO StartLogger - Initializing metacodes and classes
+04 Jul 2024 13:59:35,867  INFO StartLogger - Initializing object class
+04 Jul 2024 13:59:35,872  INFO StartLogger - Initializing tables
+04 Jul 2024 13:59:36,008  INFO StartLogger - Initializing class tables
+04 Jul 2024 13:59:36,157  INFO StartLogger - Initializing full tables with one key
+04 Jul 2024 13:59:36,159  INFO StartLogger - Initializing main logic
+04 Jul 2024 13:59:36,178  INFO StartLogger - Initializing main logic for module : #1 of 54 System (actual: 1)
+04 Jul 2024 13:59:37,388  INFO StartLogger - Initializing main logic for module : #2 of 54 Main (actual: 54)
+04 Jul 2024 13:59:37,388  INFO StartLogger - Initializing main logic for module : #3 of 54 HockeyStats (actual: 41)
+04 Jul 2024 13:59:37,389  INFO StartLogger - Initializing main logic for module : #4 of 54 LegalEntity (actual: 11)
+04 Jul 2024 13:59:37,391  INFO StartLogger - Initializing main logic for module : #5 of 54 Stock (actual: 9)
+04 Jul 2024 13:59:37,393  INFO StartLogger - Initializing main logic for module : #6 of 54 DefaultData (actual: 18)
+04 Jul 2024 13:59:37,396  INFO StartLogger - Initializing main logic for module : #7 of 54 ProcessUtils (actual: 31)
+04 Jul 2024 13:59:37,398  INFO StartLogger - Initializing main logic for module : #8 of 54 Sound (actual: 30)
+04 Jul 2024 13:59:37,399  INFO StartLogger - Initializing main logic for module : #9 of 54 Com (actual: 47)
+04 Jul 2024 13:59:37,401  INFO StartLogger - Initializing main logic for module : #10 of 54 Printer (actual: 16)
+04 Jul 2024 13:59:37,401  INFO StartLogger - Initializing main logic for module : #11 of 54 Image (actual: 17)
+04 Jul 2024 13:59:37,401  INFO StartLogger - Initializing main logic for module : #12 of 54 MasterData (actual: 7)
+04 Jul 2024 13:59:37,402  INFO StartLogger - Initializing main logic for module : #13 of 54 Time (actual: 2)
+04 Jul 2024 13:59:37,402  INFO StartLogger - Initializing main logic for module : #14 of 54 OpenCV (actual: 52)
+04 Jul 2024 13:59:37,402  INFO StartLogger - Initializing main logic for module : #15 of 54 Integration (actual: 44)
+04 Jul 2024 13:59:37,404  INFO StartLogger - Initializing main logic for module : #16 of 54 Item (actual: 10)
+04 Jul 2024 13:59:37,404  INFO StartLogger - Initializing main logic for module : #17 of 54 Numerator (actual: 19)
+04 Jul 2024 13:59:37,447  INFO StartLogger - Initializing main logic for module : #18 of 54 Shipment (actual: 13)
+04 Jul 2024 13:59:37,447  INFO StartLogger - Initializing main logic for module : #19 of 54 Receipt (actual: 12)
+04 Jul 2024 13:59:37,498  INFO StartLogger - Initializing main logic for module : #20 of 54 StockItem (actual: 14)
+04 Jul 2024 13:59:37,513  INFO StartLogger - Initializing main logic for module : #21 of 54 StockAccounting (actual: 15)
+04 Jul 2024 13:59:37,570  INFO StartLogger - Initializing main logic for module : #22 of 54 Utils (actual: 3)
+04 Jul 2024 13:59:37,753  INFO StartLogger - Initializing main logic for module : #23 of 54 Authentication (actual: 4)
+04 Jul 2024 13:59:37,753  INFO StartLogger - Initializing main logic for module : #25 of 54 Excel (actual: 23)
+04 Jul 2024 13:59:37,753  INFO StartLogger - Initializing main logic for module : #24 of 54 Hierarchy (actual: 22)
+04 Jul 2024 13:59:37,754  INFO StartLogger - Initializing main logic for module : #26 of 54 I18n (actual: 29)
+04 Jul 2024 13:59:37,754  INFO StartLogger - Initializing main logic for module : #27 of 54 Schedule (actual: 53)
+04 Jul 2024 13:59:38,126  INFO StartLogger - Initializing main logic for module : #28 of 54 Document (actual: 20)
+04 Jul 2024 13:59:38,126  INFO StartLogger - Initializing main logic for module : #31 of 54 Historizable (actual: 21)
+04 Jul 2024 13:59:38,126  INFO StartLogger - Initializing main logic for module : #29 of 54 Reflection (actual: 5)
+04 Jul 2024 13:59:38,126  INFO StartLogger - Initializing main logic for module : #30 of 54 ProcessMonitor (actual: 42)
+04 Jul 2024 13:59:38,351  INFO StartLogger - Initializing main logic for module : #32 of 54 Messenger (actual: 33)
+04 Jul 2024 13:59:38,351  INFO StartLogger - Initializing main logic for module : #34 of 54 SystemEvents (actual: 6)
+04 Jul 2024 13:59:38,351  INFO StartLogger - Initializing main logic for module : #33 of 54 Icon (actual: 37)
+04 Jul 2024 13:59:38,380  INFO StartLogger - WARNING! Now default change event action will work in new session /utils/messengers/Messenger.lsf(77:30) property:Messenger.synchronizeChatsAction[Messenger.Account] 'Synchronize account' [Messenger(65:70)]
+04 Jul 2024 13:59:38,415  INFO StartLogger - Initializing main logic for module : #35 of 54 Skype (actual: 51)
+04 Jul 2024 13:59:38,415  INFO StartLogger - Initializing main logic for module : #36 of 54 Telegram (actual: 49)
+04 Jul 2024 13:59:38,415  INFO StartLogger - Initializing main logic for module : #37 of 54 Slack (actual: 36)
+04 Jul 2024 13:59:38,415  INFO StartLogger - Initializing main logic for module : #38 of 54 Viber (actual: 34)
+04 Jul 2024 13:59:38,552  INFO StartLogger - Initializing main logic for module : #39 of 54 Word (actual: 8)
+04 Jul 2024 13:59:38,552  INFO StartLogger - Initializing main logic for module : #41 of 54 MultiSelect (actual: 48)
+04 Jul 2024 13:59:38,552  INFO StartLogger - Initializing main logic for module : #40 of 54 JKanban (actual: 35)
+04 Jul 2024 13:59:38,552  INFO StartLogger - Initializing main logic for module : #43 of 54 Geo (actual: 32)
+04 Jul 2024 13:59:38,552  INFO StartLogger - Initializing main logic for module : #42 of 54 RabbitMQ (actual: 50)
+04 Jul 2024 13:59:38,552  INFO StartLogger - Initializing main logic for module : #45 of 54 Chart (actual: 46)
+04 Jul 2024 13:59:38,553  INFO StartLogger - Initializing main logic for module : #46 of 54 Email (actual: 24)
+04 Jul 2024 13:59:38,552  INFO StartLogger - Initializing main logic for module : #44 of 54 FrappeGantt (actual: 38)
+04 Jul 2024 13:59:38,625  INFO StartLogger - Initializing main logic for module : #47 of 54 Security (actual: 25)
+04 Jul 2024 13:59:38,916  INFO StartLogger - Initializing main logic for module : #48 of 54 Service (actual: 26)
+04 Jul 2024 13:59:39,152  INFO StartLogger - Initializing main logic for module : #49 of 54 Chat (actual: 45)
+04 Jul 2024 13:59:39,152  INFO StartLogger - Initializing main logic for module : #53 of 54 Eval (actual: 28)
+04 Jul 2024 13:59:39,152  INFO StartLogger - Initializing main logic for module : #52 of 54 Scheduler (actual: 39)
+04 Jul 2024 13:59:39,152  INFO StartLogger - Initializing main logic for module : #51 of 54 SQLUtils (actual: 43)
+04 Jul 2024 13:59:39,152  INFO StartLogger - Initializing main logic for module : #50 of 54 Profiler (actual: 27)
+04 Jul 2024 13:59:39,286  INFO StartLogger - Initializing main logic for module : #54 of 54 Backup (actual: 40)
+04 Jul 2024 13:59:39,351  INFO StartLogger - Checking for duplicate elements
+04 Jul 2024 13:59:39,351  INFO StartLogger - Finalizing classes
+04 Jul 2024 13:59:39,351  INFO StartLogger - Finalizing groups
+04 Jul 2024 13:59:39,392  INFO StartLogger - Filling implicit cases
+04 Jul 2024 13:59:39,392  INFO StartLogger - Initializing lazy properties
+04 Jul 2024 13:59:39,392  INFO StartLogger - Finalizing abstract actions
+04 Jul 2024 13:59:39,392  INFO StartLogger - Initializing abstract properties
+04 Jul 2024 13:59:39,442  INFO StartLogger - Initializing fields for data and materialized properties
+04 Jul 2024 13:59:39,442  INFO StartLogger - Initializing class aggr props
+04 Jul 2024 13:59:39,442  INFO StartLogger - Checking abstract
+04 Jul 2024 13:59:39,534  INFO StartLogger - Finalizing tables
+04 Jul 2024 13:59:39,546  INFO StartLogger - Looking for recursions in abstract actions / properties
+04 Jul 2024 13:59:39,557  INFO StartLogger - Initializing indices
+04 Jul 2024 13:59:39,557  INFO StartLogger - Setup reset files
+04 Jul 2024 13:59:39,557  INFO StartLogger - Setup property policy
+04 Jul 2024 13:59:39,557  INFO StartLogger - Finalizing navigator elements
+04 Jul 2024 13:59:39,557  INFO StartLogger - Setup drill-down
+04 Jul 2024 13:59:39,609  INFO StartLogger - Initializing reflection events
+04 Jul 2024 13:59:39,697  INFO StartLogger - Setup action policy
+04 Jul 2024 13:59:41,498  INFO StartLogger - Setting user logging for properties
+04 Jul 2024 13:59:41,528  INFO StartLogger - Setting user not null constraints for properties
+04 Jul 2024 13:59:41,554  INFO StartLogger - Disabling input list
+04 Jul 2024 13:59:41,560  INFO StartLogger - Setup loggables
+04 Jul 2024 13:59:41,561  INFO StartLogger - Reading global events / materialized properties links
+04 Jul 2024 13:59:41,561  INFO StartLogger - Initializing class data indexes
+04 Jul 2024 13:59:41,595  INFO StartLogger - Finalizing properties
+04 Jul 2024 13:59:43,006  INFO StartLogger - Building global events / materialized properties list
+04 Jul 2024 13:59:43,071  INFO StartLogger - Initializing class dialog forms
+04 Jul 2024 13:59:43,071  INFO StartLogger - Reading local events links
+04 Jul 2024 13:59:43,119  INFO StartLogger - Building local events list
+04 Jul 2024 13:59:43,220  INFO StartLogger - Finalizing forms
+04 Jul 2024 13:59:43,367  INFO StartLogger - Checking indices
+04 Jul 2024 13:59:43,369  INFO StartLogger - Applying migration script (0.0 -> 0.0)
+04 Jul 2024 13:59:43,462  INFO StartLogger - Creating tables
+04 Jul 2024 13:59:43,499  INFO StartLogger - Packing tables
+04 Jul 2024 13:59:43,499  INFO StartLogger - Adding indices
+04 Jul 2024 13:59:43,500  INFO StartLogger - Updating stats
+04 Jul 2024 13:59:43,545  INFO StartLogger - Filling static objects ids
+04 Jul 2024 13:59:43,884  INFO StartLogger - Writing static objects changes
+04 Jul 2024 13:59:44,169  INFO StartLogger - Migrating reflection properties and actions
+04 Jul 2024 13:59:44,243  INFO StartLogger - Recalculating aggregations
+04 Jul 2024 13:59:44,748  INFO StartLogger - Initializing Security Manager.
+04 Jul 2024 13:59:44,749  INFO StartLogger - Starting Security Manager.
+04 Jul 2024 13:59:44,857  INFO StartLogger - Starting RMI Manager
+04 Jul 2024 13:59:44,895  INFO StartLogger - Exporting RMI Logics object (port: 7652)
+04 Jul 2024 13:59:44,907  INFO StartLogger - Initializing actions' debugger
+04 Jul 2024 13:59:44,909  INFO StartLogger - Executing onStarted action
+04 Jul 2024 13:59:45,942  INFO StartLogger - Starting Scheduler
+04 Jul 2024 13:59:46,656  INFO StartLogger - Prereading properties graph
+04 Jul 2024 13:59:46,656  INFO StartLogger - Reading modules hash
+04 Jul 2024 13:59:46,656  INFO StartLogger - Prereading caches for properties
+04 Jul 2024 13:59:46,658  INFO StartLogger - Prereading caches for properties ended
+04 Jul 2024 13:59:46,661  INFO StartLogger - Comparing modulesHash: old a48fed61, new 8aac26bd
+04 Jul 2024 13:59:46,662  INFO StartLogger - Synchronizing property entities
+04 Jul 2024 13:59:46,662  INFO StartLogger - Synchronizing group properties
+04 Jul 2024 13:59:46,662  INFO StartLogger - Synchronizing forms
+04 Jul 2024 13:59:46,663  INFO StartLogger - Synchronizing tables
+04 Jul 2024 13:59:46,663  INFO StartLogger - Synchronizing property parents
+04 Jul 2024 13:59:46,663  INFO StartLogger - synchronizeTables collecting data started
+04 Jul 2024 13:59:46,664  INFO StartLogger - Synchronizing group objects
+04 Jul 2024 13:59:46,666  INFO StartLogger - Synchronizing navigator elements
+04 Jul 2024 13:59:46,667  INFO StartLogger - Synchronizing parents
+04 Jul 2024 13:59:46,669  INFO StartLogger - Prereading security policies
+04 Jul 2024 13:59:46,670  INFO StartLogger - synchronizeTables integration service started
+04 Jul 2024 13:59:46,670  INFO StartLogger - Synchronizing property draws
+04 Jul 2024 13:59:54,344  INFO StartLogger - synchronizeTables finished
+04 Jul 2024 13:59:54,345  INFO StartLogger - Recalculating Stats at first start
+04 Jul 2024 13:59:54,345  INFO StartLogger - Writing modules hash
+04 Jul 2024 13:59:54,345  INFO StartLogger - Writing modulesHash 8aac26bd
+04 Jul 2024 13:59:54,387  INFO StartLogger - Writing modulesHash finished successfully
+04 Jul 2024 13:59:54,396  INFO StartLogger - Obsolete caches were successfully cleaned
+04 Jul 2024 13:59:54,397  INFO StartLogger - Logics instance has successfully started
+04 Jul 2024 13:59:54,398  INFO StartLogger - Desktop Client is available at:
+04 Jul 2024 13:59:54,398  INFO StartLogger - Java Web Start (with auto update, requires JDK): https://download.lsfusion.org/java/lsfusion-client-5.1.jnlp
+04 Jul 2024 13:59:54,398  INFO StartLogger - Installer for Windows (without auto update): https://download.lsfusion.org/exe/lsfusion-desktop-5.1-x64.exe
+04 Jul 2024 13:59:54,400  INFO StartLogger - Current version: 5.1 (227)
+04 Jul 2024 13:59:54,400  INFO StartLogger - Server has successfully started in 21948 ms.
