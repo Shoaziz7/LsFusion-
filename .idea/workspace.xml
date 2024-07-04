@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f5dc0a2-0d4e-42e5-9fd4-901eff4d3bb1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_3_2024_3_27_PM_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_7_3_2024_3_27_PM__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/git.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/scheduler-log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/scheduler-log.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/sqlconnection.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/sqlconnection.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/stdout.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/stdout.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/lsfusion/HockeyStats/HockeyStats.lsf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/lsfusion/HockeyStats/HockeyStats.lsf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="2ijEXrPSwK4HZgju9GG2O8VM3YU" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,7 +55,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/git&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/git&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
   }
 }</component>
   <component name="RunManager">
@@ -87,12 +97,34 @@
       <option name="project" value="LOCAL" />
       <updated>1720002513653</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="main">
+      <created>1720003020397</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720003020397</updated>
+    </task>
+    <task id="LOCAL-00004" summary="main">
+      <created>1720003054182</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720003054182</updated>
+    </task>
+    <task id="LOCAL-00005" summary="small changes">
+      <created>1720007145954</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720007145954</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HockeyStats" />
     <MESSAGE value="main" />
-    <option name="LAST_COMMIT_MESSAGE" value="main" />
+    <MESSAGE value="small changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="small changes" />
   </component>
 </project>
